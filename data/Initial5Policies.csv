@@ -1,0 +1,10 @@
+Stand when hand is >= 17,Infinite deck on  every run a card is drawn with equal probability.,1000000,412674,44823,486070,41698,101256,5582,0.412674
+Stand when hand is >= 17 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,1000000,406482,44674,495625,41298,97893,6059,0.406482
+Stand when hand is >= 0,Infinite deck on  every run a card is drawn with equal probability.,1000000,388061,44974,563254,45223,48685,2329,0.388061
+Stand when hand is >= 22,Infinite deck on  every run a card is drawn with equal probability.,1000000,160798,44510,821341,38751,17861,8476,0.160798
+Stand when hand is >= 12 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,1000000,421231,44899,515921,43613,62848,3782,0.421231
+Stand when hand is >= 17,One deck of cards is used. The deck is reshuffled after every game.,1000000,414548,46267,487465,42722,97987,5412,0.414548
+Stand when hand is >= 17 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,1000000,406907,46533,498227,42191,94866,5748,0.406907
+Stand when hand is >= 0,One deck of cards is used. The deck is reshuffled after every game.,1000000,390888,46298,563804,46649,45308,1717,0.390888
+Stand when hand is >= 22,One deck of cards is used. The deck is reshuffled after every game.,1000000,161509,46398,821101,40299,17390,8095,0.161509
+Stand when hand is >= 12 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,1000000,424063,46620,515990,45057,59947,3412,0.424063

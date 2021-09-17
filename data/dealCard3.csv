@@ -1,0 +1,720 @@
+Stand when hand is >= 4 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4575,459,5035,0,390,0,0.4575
+Stand when hand is >= 4 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4777,484,4851,0,372,0,0.4777
+Stand when hand is >= 4 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4939,452,4698,0,363,0,0.4939
+Stand when hand is >= 4 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5042,515,4620,0,338,0,0.5042
+Stand when hand is >= 4 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5057,467,4610,0,333,0,0.5057
+Stand when hand is >= 4 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4125,440,5435,0,440,0,0.4125
+Stand when hand is >= 4 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3809,477,5707,0,484,0,0.3809
+Stand when hand is >= 4 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3494,472,6007,0,499,0,0.3494
+Stand when hand is >= 4 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3119,456,6263,717,618,41,0.3119
+Stand when hand is >= 4 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2604,277,6881,2901,515,184,0.2604
+Stand when hand is >= 5 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4533,482,5061,0,406,0,0.4533
+Stand when hand is >= 5 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4736,461,4871,0,393,0,0.4736
+Stand when hand is >= 5 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4845,491,4800,0,355,0,0.4845
+Stand when hand is >= 5 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5037,498,4626,0,337,0,0.5037
+Stand when hand is >= 5 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5236,488,4391,0,373,0,0.5236
+Stand when hand is >= 5 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4161,451,5340,0,499,0,0.4161
+Stand when hand is >= 5 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3821,460,5719,0,460,0,0.3821
+Stand when hand is >= 5 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3580,494,5935,0,485,0,0.358
+Stand when hand is >= 5 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3031,448,6338,712,631,40,0.3031
+Stand when hand is >= 5 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2546,262,6926,2849,528,178,0.2546
+Stand when hand is >= 6 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4473,475,5128,0,399,0,0.4473
+Stand when hand is >= 6 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4652,477,4961,0,387,0,0.4652
+Stand when hand is >= 6 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4857,475,4725,0,418,0,0.4857
+Stand when hand is >= 6 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5045,481,4605,0,350,0,0.5045
+Stand when hand is >= 6 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5226,469,4439,0,335,0,0.5226
+Stand when hand is >= 6 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4092,441,5421,0,487,0,0.4092
+Stand when hand is >= 6 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3851,488,5733,0,416,0,0.3851
+Stand when hand is >= 6 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3527,472,6001,0,472,0,0.3527
+Stand when hand is >= 6 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3087,459,6317,721,596,35,0.3087
+Stand when hand is >= 6 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2567,277,6926,2954,507,167,0.2567
+Stand when hand is >= 7 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4640,457,5000,0,360,0,0.464
+Stand when hand is >= 7 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4594,446,5038,0,368,0,0.4594
+Stand when hand is >= 7 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4816,450,4799,0,385,0,0.4816
+Stand when hand is >= 7 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5107,489,4537,0,356,0,0.5107
+Stand when hand is >= 7 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5259,496,4405,0,336,0,0.5259
+Stand when hand is >= 7 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4076,460,5436,0,488,0,0.4076
+Stand when hand is >= 7 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3783,474,5765,0,452,0,0.3783
+Stand when hand is >= 7 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3484,462,6062,0,454,0,0.3484
+Stand when hand is >= 7 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3092,471,6299,723,609,44,0.3092
+Stand when hand is >= 7 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2659,302,6850,2807,491,150,0.2659
+Stand when hand is >= 8 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4486,466,5114,0,400,0,0.4486
+Stand when hand is >= 8 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4638,495,4956,0,406,0,0.4638
+Stand when hand is >= 8 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4918,451,4720,0,362,0,0.4918
+Stand when hand is >= 8 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5096,448,4501,0,403,0,0.5096
+Stand when hand is >= 8 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5170,460,4471,0,359,0,0.517
+Stand when hand is >= 8 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4178,442,5332,0,490,0,0.4178
+Stand when hand is >= 8 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3912,481,5586,0,502,0,0.3912
+Stand when hand is >= 8 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3569,477,5975,0,456,0,0.3569
+Stand when hand is >= 8 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3045,429,6328,700,627,54,0.3045
+Stand when hand is >= 8 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2517,283,6974,2935,509,150,0.2517
+Stand when hand is >= 9 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4599,480,4948,0,453,0,0.4599
+Stand when hand is >= 9 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4777,486,4815,0,408,0,0.4777
+Stand when hand is >= 9 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4970,464,4661,0,369,0,0.497
+Stand when hand is >= 9 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5071,488,4556,0,373,0,0.5071
+Stand when hand is >= 9 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5149,448,4461,0,390,0,0.5149
+Stand when hand is >= 9 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4150,478,5297,0,553,0,0.415
+Stand when hand is >= 9 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3914,499,5589,0,497,0,0.3914
+Stand when hand is >= 9 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3550,433,5964,0,486,0,0.355
+Stand when hand is >= 9 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3095,433,6297,718,608,46,0.3095
+Stand when hand is >= 9 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2542,276,6857,2877,601,205,0.2542
+Stand when hand is >= 10 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4552,476,5017,0,431,0,0.4552
+Stand when hand is >= 10 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4755,503,4827,0,418,0,0.4755
+Stand when hand is >= 10 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4873,459,4688,0,439,0,0.4873
+Stand when hand is >= 10 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5061,461,4533,0,406,0,0.5061
+Stand when hand is >= 10 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5253,464,4337,0,410,0,0.5253
+Stand when hand is >= 10 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4295,496,5162,0,543,0,0.4295
+Stand when hand is >= 10 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3815,463,5645,0,540,0,0.3815
+Stand when hand is >= 10 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3517,433,5908,0,575,0,0.3517
+Stand when hand is >= 10 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3152,447,6177,739,671,37,0.3152
+Stand when hand is >= 10 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2648,327,6790,2900,562,180,0.2648
+Stand when hand is >= 11 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4667,442,4840,0,493,0,0.4667
+Stand when hand is >= 11 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4861,429,4653,0,486,0,0.4861
+Stand when hand is >= 11 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5000,453,4512,0,488,0,0.5
+Stand when hand is >= 11 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5260,515,4277,0,463,0,0.526
+Stand when hand is >= 11 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5332,484,4212,0,456,0,0.5332
+Stand when hand is >= 11 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4426,467,4962,0,612,0,0.4426
+Stand when hand is >= 11 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4034,450,5380,0,586,0,0.4034
+Stand when hand is >= 11 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3678,471,5722,0,600,0,0.3678
+Stand when hand is >= 11 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3225,433,6058,693,717,60,0.3225
+Stand when hand is >= 11 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2709,281,6645,2908,646,192,0.2709
+Stand when hand is >= 12 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4941,464,4560,0,499,0,0.4941
+Stand when hand is >= 12 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4918,461,4542,0,540,0,0.4918
+Stand when hand is >= 12 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5157,491,4368,0,475,0,0.5157
+Stand when hand is >= 12 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5354,468,4158,0,488,0,0.5354
+Stand when hand is >= 12 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5385,463,4141,0,474,0,0.5385
+Stand when hand is >= 12 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4605,444,4771,0,624,0,0.4605
+Stand when hand is >= 12 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4260,517,5135,0,605,0,0.426
+Stand when hand is >= 12 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3866,451,5490,0,644,0,0.3866
+Stand when hand is >= 12 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3351,450,5902,704,747,66,0.3351
+Stand when hand is >= 12 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2913,284,6353,2819,734,260,0.2913
+Stand when hand is >= 13 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4823,499,4604,0,573,0,0.4823
+Stand when hand is >= 13 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4959,475,4479,0,562,0,0.4959
+Stand when hand is >= 13 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5153,467,4293,0,554,0,0.5153
+Stand when hand is >= 13 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5340,478,4152,0,508,0,0.534
+Stand when hand is >= 13 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5484,527,4005,0,511,0,0.5484
+Stand when hand is >= 13 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4717,482,4625,0,658,0,0.4717
+Stand when hand is >= 13 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4364,490,4938,0,698,0,0.4364
+Stand when hand is >= 13 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3867,460,5407,0,726,0,0.3867
+Stand when hand is >= 13 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3396,450,5784,706,820,53,0.3396
+Stand when hand is >= 13 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2932,298,6287,2841,781,268,0.2932
+Stand when hand is >= 14 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4839,470,4470,0,691,0,0.4839
+Stand when hand is >= 14 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4931,477,4461,0,608,0,0.4931
+Stand when hand is >= 14 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5104,467,4308,0,588,0,0.5104
+Stand when hand is >= 14 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5261,513,4159,0,580,0,0.5261
+Stand when hand is >= 14 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5405,527,3996,0,599,0,0.5405
+Stand when hand is >= 14 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4777,456,4434,0,789,0,0.4777
+Stand when hand is >= 14 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4452,451,4781,0,767,0,0.4452
+Stand when hand is >= 14 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4036,461,5178,0,786,0,0.4036
+Stand when hand is >= 14 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3447,443,5676,693,877,68,0.3447
+Stand when hand is >= 14 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2872,297,6295,2859,833,272,0.2872
+Stand when hand is >= 15 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4635,482,4649,0,716,0,0.4635
+Stand when hand is >= 15 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4851,448,4449,0,700,0,0.4851
+Stand when hand is >= 15 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5011,513,4325,0,664,0,0.5011
+Stand when hand is >= 15 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5039,422,4297,0,664,0,0.5039
+Stand when hand is >= 15 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5173,437,4180,0,647,0,0.5173
+Stand when hand is >= 15 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4888,486,4343,0,769,0,0.4888
+Stand when hand is >= 15 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4371,460,4774,0,855,0,0.4371
+Stand when hand is >= 15 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4068,462,5086,0,846,0,0.4068
+Stand when hand is >= 15 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3432,426,5577,736,991,97,0.3432
+Stand when hand is >= 15 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2879,298,6122,2688,999,364,0.2879
+Stand when hand is >= 16 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4644,493,4589,0,767,0,0.4644
+Stand when hand is >= 16 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4744,466,4520,0,736,0,0.4744
+Stand when hand is >= 16 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4749,504,4522,0,729,0,0.4749
+Stand when hand is >= 16 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4908,463,4361,0,731,0,0.4908
+Stand when hand is >= 16 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,5029,477,4307,0,664,0,0.5029
+Stand when hand is >= 16 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4882,464,4247,0,871,0,0.4882
+Stand when hand is >= 16 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4495,476,4579,0,926,0,0.4495
+Stand when hand is >= 16 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3973,492,5110,0,917,0,0.3973
+Stand when hand is >= 16 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3453,436,5430,635,1117,94,0.3453
+Stand when hand is >= 16 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2926,275,6016,2660,1058,364,0.2926
+Stand when hand is >= 17 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4457,459,4726,0,817,0,0.4457
+Stand when hand is >= 17 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4503,500,4696,0,801,0,0.4503
+Stand when hand is >= 17 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4621,524,4610,0,769,0,0.4621
+Stand when hand is >= 17 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4700,504,4520,0,780,0,0.47
+Stand when hand is >= 17 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4811,459,4437,0,752,0,0.4811
+Stand when hand is >= 17 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4803,481,4174,0,1023,0,0.4803
+Stand when hand is >= 17 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4480,465,4501,0,1019,0,0.448
+Stand when hand is >= 17 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4047,478,4947,0,1006,0,0.4047
+Stand when hand is >= 17 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3402,462,5423,683,1175,94,0.3402
+Stand when hand is >= 17 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2876,275,5990,2721,1134,436,0.2876
+Stand when hand is >= 18 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4207,496,5105,0,688,0,0.4207
+Stand when hand is >= 18 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4360,474,4998,0,642,0,0.436
+Stand when hand is >= 18 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4359,495,4974,0,667,0,0.4359
+Stand when hand is >= 18 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4405,503,5003,0,592,0,0.4405
+Stand when hand is >= 18 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4549,503,4894,0,557,0,0.4549
+Stand when hand is >= 18 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4808,467,4690,0,502,0,0.4808
+Stand when hand is >= 18 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4442,476,4667,0,891,0,0.4442
+Stand when hand is >= 18 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3929,486,5167,0,904,0,0.3929
+Stand when hand is >= 18 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3256,403,5681,639,1063,103,0.3256
+Stand when hand is >= 18 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2788,295,6144,2612,1068,426,0.2788
+Stand when hand is >= 19 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3821,487,5664,0,515,0,0.3821
+Stand when hand is >= 19 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3771,505,5656,0,573,0,0.3771
+Stand when hand is >= 19 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3891,477,5600,0,509,0,0.3891
+Stand when hand is >= 19 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3940,455,5553,0,507,0,0.394
+Stand when hand is >= 19 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4001,506,5525,0,474,0,0.4001
+Stand when hand is >= 19 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4204,470,5451,0,345,0,0.4204
+Stand when hand is >= 19 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,4143,443,5504,0,353,0,0.4143
+Stand when hand is >= 19 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3778,478,5427,0,795,0,0.3778
+Stand when hand is >= 19 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3109,445,5959,638,932,120,0.3109
+Stand when hand is >= 19 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2638,259,6418,2594,944,476,0.2638
+Stand when hand is >= 20 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2977,503,6627,0,396,0,0.2977
+Stand when hand is >= 20 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3121,449,6492,0,387,0,0.3121
+Stand when hand is >= 20 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3144,492,6476,0,380,0,0.3144
+Stand when hand is >= 20 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3167,475,6482,0,351,0,0.3167
+Stand when hand is >= 20 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3150,440,6535,0,315,0,0.315
+Stand when hand is >= 20 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3244,457,6501,0,255,0,0.3244
+Stand when hand is >= 20 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3331,467,6460,0,209,0,0.3331
+Stand when hand is >= 20 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,3150,441,6564,0,286,0,0.315
+Stand when hand is >= 20 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2630,490,6524,655,846,117,0.263
+Stand when hand is >= 20 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,2174,309,7026,2502,800,509,0.2174
+Stand when hand is >= 21 & dealer face up card is = 2 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1685,510,8154,0,161,0,0.1685
+Stand when hand is >= 21 & dealer face up card is = 3 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1648,499,8189,0,163,0,0.1648
+Stand when hand is >= 21 & dealer face up card is = 4 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1641,463,8199,0,160,0,0.1641
+Stand when hand is >= 21 & dealer face up card is = 5 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1659,439,8198,0,143,0,0.1659
+Stand when hand is >= 21 & dealer face up card is = 6 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1667,497,8184,0,149,0,0.1667
+Stand when hand is >= 21 & dealer face up card is = 7 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1729,489,8188,0,83,0,0.1729
+Stand when hand is >= 21 & dealer face up card is = 8 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1714,494,8200,0,86,0,0.1714
+Stand when hand is >= 21 & dealer face up card is = 9 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1737,501,8175,0,88,0,0.1737
+Stand when hand is >= 21 & dealer face up card is = 10 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1592,435,8226,597,182,132,0.1592
+Stand when hand is >= 21 & dealer face up card is = 11 & Player's hand is hard.,Infinite deck on  every run a card is drawn with equal probability.,10000,1195,301,8208,2563,597,552,0.1195
+Stand when hand is >= 4 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4644,539,4925,0,431,0,0.4644
+Stand when hand is >= 4 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4794,518,4811,0,395,0,0.4794
+Stand when hand is >= 4 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5170,517,4482,0,348,0,0.517
+Stand when hand is >= 4 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5538,571,4116,0,346,0,0.5538
+Stand when hand is >= 4 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5209,516,4386,0,405,0,0.5209
+Stand when hand is >= 4 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4138,485,5424,0,438,0,0.4138
+Stand when hand is >= 4 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3679,516,5959,0,362,0,0.3679
+Stand when hand is >= 4 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3614,542,6010,0,376,0,0.3614
+Stand when hand is >= 4 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2942,347,6687,879,371,58,0.2942
+Stand when hand is >= 4 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2057,219,7443,3104,500,113,0.2057
+Stand when hand is >= 5 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4547,558,5022,0,431,0,0.4547
+Stand when hand is >= 5 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4733,496,4858,0,409,0,0.4733
+Stand when hand is >= 5 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5243,526,4408,0,349,0,0.5243
+Stand when hand is >= 5 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5594,498,4091,0,315,0,0.5594
+Stand when hand is >= 5 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5234,497,4403,0,363,0,0.5234
+Stand when hand is >= 5 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4165,534,5411,0,424,0,0.4165
+Stand when hand is >= 5 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3713,564,5865,0,422,0,0.3713
+Stand when hand is >= 5 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3541,524,6059,0,400,0,0.3541
+Stand when hand is >= 5 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2865,372,6746,881,389,53,0.2865
+Stand when hand is >= 5 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1952,165,7587,3227,461,106,0.1952
+Stand when hand is >= 6 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4731,524,4864,0,405,0,0.4731
+Stand when hand is >= 6 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4706,509,4893,0,401,0,0.4706
+Stand when hand is >= 6 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5186,497,4424,0,390,0,0.5186
+Stand when hand is >= 6 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5604,551,4050,0,346,0,0.5604
+Stand when hand is >= 6 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5205,523,4423,0,372,0,0.5205
+Stand when hand is >= 6 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4068,566,5504,0,428,0,0.4068
+Stand when hand is >= 6 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3652,552,5949,0,399,0,0.3652
+Stand when hand is >= 6 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3597,522,6015,0,388,0,0.3597
+Stand when hand is >= 6 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2893,370,6745,881,362,37,0.2893
+Stand when hand is >= 6 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1956,164,7550,3229,494,101,0.1956
+Stand when hand is >= 7 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4614,521,4932,0,454,0,0.4614
+Stand when hand is >= 7 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4786,515,4776,0,438,0,0.4786
+Stand when hand is >= 7 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5318,505,4337,0,345,0,0.5318
+Stand when hand is >= 7 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5571,530,4094,0,335,0,0.5571
+Stand when hand is >= 7 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5182,549,4447,0,371,0,0.5182
+Stand when hand is >= 7 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4108,522,5472,0,420,0,0.4108
+Stand when hand is >= 7 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3655,555,5923,0,422,0,0.3655
+Stand when hand is >= 7 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3613,498,5957,0,430,0,0.3613
+Stand when hand is >= 7 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2885,362,6745,884,370,40,0.2885
+Stand when hand is >= 7 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2015,168,7461,3122,524,110,0.2015
+Stand when hand is >= 8 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4715,552,4846,0,439,0,0.4715
+Stand when hand is >= 8 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4839,519,4739,0,422,0,0.4839
+Stand when hand is >= 8 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5182,524,4427,0,391,0,0.5182
+Stand when hand is >= 8 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5578,517,4051,0,371,0,0.5578
+Stand when hand is >= 8 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5241,547,4358,0,401,0,0.5241
+Stand when hand is >= 8 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4112,509,5419,0,469,0,0.4112
+Stand when hand is >= 8 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3702,519,5898,0,400,0,0.3702
+Stand when hand is >= 8 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3577,578,6002,0,421,0,0.3577
+Stand when hand is >= 8 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2945,352,6699,906,356,25,0.2945
+Stand when hand is >= 8 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1928,181,7540,3229,532,111,0.1928
+Stand when hand is >= 9 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4594,521,4962,0,444,0,0.4594
+Stand when hand is >= 9 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4791,538,4776,0,433,0,0.4791
+Stand when hand is >= 9 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5217,484,4345,0,438,0,0.5217
+Stand when hand is >= 9 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5546,553,4066,0,388,0,0.5546
+Stand when hand is >= 9 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5243,499,4308,0,449,0,0.5243
+Stand when hand is >= 9 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4109,525,5375,0,516,0,0.4109
+Stand when hand is >= 9 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3758,559,5757,0,485,0,0.3758
+Stand when hand is >= 9 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3566,517,6031,0,403,0,0.3566
+Stand when hand is >= 9 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2987,369,6649,968,364,32,0.2987
+Stand when hand is >= 9 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2018,193,7470,3244,512,102,0.2018
+Stand when hand is >= 10 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4695,538,4840,0,465,0,0.4695
+Stand when hand is >= 10 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4814,516,4710,0,476,0,0.4814
+Stand when hand is >= 10 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5324,495,4303,0,373,0,0.5324
+Stand when hand is >= 10 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5575,553,4020,0,405,0,0.5575
+Stand when hand is >= 10 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5170,507,4403,0,427,0,0.517
+Stand when hand is >= 10 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4265,525,5201,0,534,0,0.4265
+Stand when hand is >= 10 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3861,565,5676,0,463,0,0.3861
+Stand when hand is >= 10 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3645,506,5858,0,497,0,0.3645
+Stand when hand is >= 10 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2979,349,6583,889,438,50,0.2979
+Stand when hand is >= 10 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2075,144,7362,3267,563,104,0.2075
+Stand when hand is >= 11 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4737,505,4768,0,495,0,0.4737
+Stand when hand is >= 11 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4959,548,4518,0,523,0,0.4959
+Stand when hand is >= 11 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5352,530,4180,0,468,0,0.5352
+Stand when hand is >= 11 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5755,538,3821,0,424,0,0.5755
+Stand when hand is >= 11 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5406,501,4122,0,472,0,0.5406
+Stand when hand is >= 11 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4476,544,4969,0,555,0,0.4476
+Stand when hand is >= 11 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3997,518,5469,0,534,0,0.3997
+Stand when hand is >= 11 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3835,505,5662,0,503,0,0.3835
+Stand when hand is >= 11 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3132,370,6390,885,478,40,0.3132
+Stand when hand is >= 11 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2058,194,7354,3274,588,107,0.2058
+Stand when hand is >= 12 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4858,495,4593,0,549,0,0.4858
+Stand when hand is >= 12 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4985,522,4487,0,528,0,0.4985
+Stand when hand is >= 12 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5428,471,4087,0,485,0,0.5428
+Stand when hand is >= 12 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5771,492,3755,0,474,0,0.5771
+Stand when hand is >= 12 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5558,537,3925,0,517,0,0.5558
+Stand when hand is >= 12 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4626,530,4807,0,567,0,0.4626
+Stand when hand is >= 12 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4208,528,5214,0,578,0,0.4208
+Stand when hand is >= 12 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3963,503,5454,0,583,0,0.3963
+Stand when hand is >= 12 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3287,356,6193,870,520,60,0.3287
+Stand when hand is >= 12 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2276,185,7045,3071,679,188,0.2276
+Stand when hand is >= 13 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4906,553,4494,0,600,0,0.4906
+Stand when hand is >= 13 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5054,478,4390,0,556,0,0.5054
+Stand when hand is >= 13 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5492,516,4009,0,499,0,0.5492
+Stand when hand is >= 13 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5766,504,3745,0,489,0,0.5766
+Stand when hand is >= 13 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5424,545,4025,0,551,0,0.5424
+Stand when hand is >= 13 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4650,541,4732,0,618,0,0.465
+Stand when hand is >= 13 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4135,560,5224,0,641,0,0.4135
+Stand when hand is >= 13 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3908,539,5450,0,642,0,0.3908
+Stand when hand is >= 13 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3511,358,5839,845,650,70,0.3511
+Stand when hand is >= 13 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2400,206,6820,3035,780,218,0.24
+Stand when hand is >= 14 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4849,548,4494,0,657,0,0.4849
+Stand when hand is >= 14 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4974,532,4419,0,607,0,0.4974
+Stand when hand is >= 14 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5310,531,4066,0,624,0,0.531
+Stand when hand is >= 14 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5552,496,3884,0,564,0,0.5552
+Stand when hand is >= 14 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5410,527,4023,0,567,0,0.541
+Stand when hand is >= 14 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4699,514,4514,0,787,0,0.4699
+Stand when hand is >= 14 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4324,510,4940,0,736,0,0.4324
+Stand when hand is >= 14 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4010,532,5235,0,755,0,0.401
+Stand when hand is >= 14 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3598,359,5664,837,738,87,0.3598
+Stand when hand is >= 14 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2314,184,6835,3132,851,252,0.2314
+Stand when hand is >= 15 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4764,539,4541,0,695,0,0.4764
+Stand when hand is >= 15 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4852,519,4440,0,708,0,0.4852
+Stand when hand is >= 15 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5166,541,4250,0,584,0,0.5166
+Stand when hand is >= 15 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5376,530,4082,0,542,0,0.5376
+Stand when hand is >= 15 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5169,534,4177,0,654,0,0.5169
+Stand when hand is >= 15 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4683,517,4481,0,836,0,0.4683
+Stand when hand is >= 15 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4430,561,4802,0,768,0,0.443
+Stand when hand is >= 15 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4058,532,5187,0,755,0,0.4058
+Stand when hand is >= 15 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3560,338,5568,828,872,93,0.356
+Stand when hand is >= 15 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2508,196,6564,3031,928,271,0.2508
+Stand when hand is >= 16 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4556,508,4690,0,754,0,0.4556
+Stand when hand is >= 16 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4673,501,4557,0,770,0,0.4673
+Stand when hand is >= 16 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4883,525,4477,0,640,0,0.4883
+Stand when hand is >= 16 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,5226,500,4120,0,654,0,0.5226
+Stand when hand is >= 16 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4958,539,4332,0,710,0,0.4958
+Stand when hand is >= 16 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4813,529,4287,0,900,0,0.4813
+Stand when hand is >= 16 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4441,526,4665,0,894,0,0.4441
+Stand when hand is >= 16 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4000,534,5080,0,920,0,0.4
+Stand when hand is >= 16 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3605,324,5425,858,970,101,0.3605
+Stand when hand is >= 16 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2457,170,6494,2969,1049,334,0.2457
+Stand when hand is >= 17 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4458,547,4671,0,871,0,0.4458
+Stand when hand is >= 17 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4472,558,4706,0,822,0,0.4472
+Stand when hand is >= 17 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4644,525,4617,0,739,0,0.4644
+Stand when hand is >= 17 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4914,543,4440,0,646,0,0.4914
+Stand when hand is >= 17 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4724,530,4532,0,744,0,0.4724
+Stand when hand is >= 17 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4847,526,4139,0,1014,0,0.4847
+Stand when hand is >= 17 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4414,499,4583,0,1003,0,0.4414
+Stand when hand is >= 17 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3932,487,5053,0,1015,0,0.3932
+Stand when hand is >= 17 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3590,345,5323,883,1087,127,0.359
+Stand when hand is >= 17 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2575,165,6309,2981,1116,370,0.2575
+Stand when hand is >= 18 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4195,506,5128,0,677,0,0.4195
+Stand when hand is >= 18 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4102,527,5156,0,742,0,0.4102
+Stand when hand is >= 18 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4289,520,5126,0,585,0,0.4289
+Stand when hand is >= 18 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4441,511,4956,0,603,0,0.4441
+Stand when hand is >= 18 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4629,501,4791,0,580,0,0.4629
+Stand when hand is >= 18 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4849,507,4622,0,529,0,0.4849
+Stand when hand is >= 18 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4492,536,4658,0,850,0,0.4492
+Stand when hand is >= 18 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3999,535,5144,0,857,0,0.3999
+Stand when hand is >= 18 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3653,350,5425,761,922,152,0.3653
+Stand when hand is >= 18 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2556,209,6400,2850,1044,381,0.2556
+Stand when hand is >= 19 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3736,567,5695,0,569,0,0.3736
+Stand when hand is >= 19 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3810,556,5671,0,519,0,0.381
+Stand when hand is >= 19 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3761,522,5733,0,506,0,0.3761
+Stand when hand is >= 19 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4023,495,5535,0,442,0,0.4023
+Stand when hand is >= 19 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4000,530,5550,0,450,0,0.4
+Stand when hand is >= 19 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4268,551,5388,0,344,0,0.4268
+Stand when hand is >= 19 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,4323,528,5288,0,389,0,0.4323
+Stand when hand is >= 19 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3763,542,5386,0,851,0,0.3763
+Stand when hand is >= 19 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3270,342,5974,781,756,158,0.327
+Stand when hand is >= 19 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2228,168,6834,2902,938,427,0.2228
+Stand when hand is >= 20 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2867,538,6765,0,368,0,0.2867
+Stand when hand is >= 20 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2997,539,6628,0,375,0,0.2997
+Stand when hand is >= 20 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2937,510,6660,0,403,0,0.2937
+Stand when hand is >= 20 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3094,483,6614,0,292,0,0.3094
+Stand when hand is >= 20 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3178,516,6559,0,263,0,0.3178
+Stand when hand is >= 20 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3310,509,6449,0,241,0,0.331
+Stand when hand is >= 20 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3337,538,6417,0,246,0,0.3337
+Stand when hand is >= 20 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,3251,487,6386,0,363,0,0.3251
+Stand when hand is >= 20 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,2677,389,6756,789,567,161,0.2677
+Stand when hand is >= 20 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1844,199,7347,2798,809,472,0.1844
+Stand when hand is >= 21 & dealer face up card is = 2 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1530,522,8319,0,151,0,0.153
+Stand when hand is >= 21 & dealer face up card is = 3 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1615,542,8266,0,119,0,0.1615
+Stand when hand is >= 21 & dealer face up card is = 4 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1650,524,8194,0,156,0,0.165
+Stand when hand is >= 21 & dealer face up card is = 5 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1673,562,8196,0,131,0,0.1673
+Stand when hand is >= 21 & dealer face up card is = 6 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1688,530,8206,0,106,0,0.1688
+Stand when hand is >= 21 & dealer face up card is = 7 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1682,472,8217,0,101,0,0.1682
+Stand when hand is >= 21 & dealer face up card is = 8 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1766,530,8141,0,93,0,0.1766
+Stand when hand is >= 21 & dealer face up card is = 9 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1776,543,8146,0,78,0,0.1776
+Stand when hand is >= 21 & dealer face up card is = 10 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,1697,366,8024,825,279,199,0.1697
+Stand when hand is >= 21 & dealer face up card is = 11 & Player's hand is hard.,One deck of cards is used. The deck is reshuffled after every game.,10000,882,160,8599,2788,519,468,0.0882
+Stand when hand is >= 4 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4478,486,5118,0,404,0,0.4478
+Stand when hand is >= 4 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4819,494,4818,0,363,0,0.4819
+Stand when hand is >= 4 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4846,491,4769,0,385,0,0.4846
+Stand when hand is >= 4 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5067,447,4591,0,342,0,0.5067
+Stand when hand is >= 4 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5155,447,4495,0,350,0,0.5155
+Stand when hand is >= 4 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4152,438,5337,0,511,0,0.4152
+Stand when hand is >= 4 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3932,435,5576,0,492,0,0.3932
+Stand when hand is >= 4 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3532,469,5992,0,476,0,0.3532
+Stand when hand is >= 4 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3060,471,6329,764,611,33,0.306
+Stand when hand is >= 4 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2595,295,6867,2930,538,166,0.2595
+Stand when hand is >= 5 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4509,476,5112,0,379,0,0.4509
+Stand when hand is >= 5 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4690,453,4928,0,382,0,0.469
+Stand when hand is >= 5 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4851,468,4797,0,352,0,0.4851
+Stand when hand is >= 5 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5131,441,4524,0,345,0,0.5131
+Stand when hand is >= 5 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5177,480,4470,0,353,0,0.5177
+Stand when hand is >= 5 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4189,445,5359,0,452,0,0.4189
+Stand when hand is >= 5 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3919,464,5610,0,471,0,0.3919
+Stand when hand is >= 5 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3444,499,6055,0,501,0,0.3444
+Stand when hand is >= 5 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3067,438,6315,745,618,30,0.3067
+Stand when hand is >= 5 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2561,301,6946,2999,493,154,0.2561
+Stand when hand is >= 6 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4557,467,5057,0,386,0,0.4557
+Stand when hand is >= 6 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4748,457,4877,0,375,0,0.4748
+Stand when hand is >= 6 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4827,477,4790,0,383,0,0.4827
+Stand when hand is >= 6 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5087,456,4560,0,353,0,0.5087
+Stand when hand is >= 6 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5168,455,4481,0,351,0,0.5168
+Stand when hand is >= 6 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4189,476,5347,0,464,0,0.4189
+Stand when hand is >= 6 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3928,501,5615,0,457,0,0.3928
+Stand when hand is >= 6 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3520,457,6006,0,474,0,0.352
+Stand when hand is >= 6 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3077,444,6304,760,619,51,0.3077
+Stand when hand is >= 6 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2551,279,6940,2998,509,150,0.2551
+Stand when hand is >= 7 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4517,454,5109,0,374,0,0.4517
+Stand when hand is >= 7 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4662,466,4938,0,400,0,0.4662
+Stand when hand is >= 7 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4886,498,4727,0,387,0,0.4886
+Stand when hand is >= 7 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5039,468,4599,0,362,0,0.5039
+Stand when hand is >= 7 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5165,468,4491,0,344,0,0.5165
+Stand when hand is >= 7 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4161,480,5349,0,490,0,0.4161
+Stand when hand is >= 7 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3815,496,5729,0,456,0,0.3815
+Stand when hand is >= 7 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3531,501,5985,0,484,0,0.3531
+Stand when hand is >= 7 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3055,435,6311,719,634,29,0.3055
+Stand when hand is >= 7 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2625,303,6889,2879,486,129,0.2625
+Stand when hand is >= 8 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4499,496,5080,0,421,0,0.4499
+Stand when hand is >= 8 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4655,503,4918,0,427,0,0.4655
+Stand when hand is >= 8 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4889,501,4750,0,361,0,0.4889
+Stand when hand is >= 8 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5059,465,4568,0,373,0,0.5059
+Stand when hand is >= 8 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5195,516,4448,0,357,0,0.5195
+Stand when hand is >= 8 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4123,464,5359,0,518,0,0.4123
+Stand when hand is >= 8 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3786,447,5684,0,530,0,0.3786
+Stand when hand is >= 8 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3513,466,6010,0,477,0,0.3513
+Stand when hand is >= 8 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,2969,442,6399,750,632,39,0.2969
+Stand when hand is >= 8 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2646,313,6822,2884,532,143,0.2646
+Stand when hand is >= 9 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4588,474,4953,0,459,0,0.4588
+Stand when hand is >= 9 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4752,461,4881,0,367,0,0.4752
+Stand when hand is >= 9 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4859,487,4722,0,419,0,0.4859
+Stand when hand is >= 9 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,4999,457,4579,0,422,0,0.4999
+Stand when hand is >= 9 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5195,477,4403,0,402,0,0.5195
+Stand when hand is >= 9 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4249,456,5231,0,520,0,0.4249
+Stand when hand is >= 9 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3885,490,5592,0,523,0,0.3885
+Stand when hand is >= 9 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3496,451,5991,0,513,0,0.3496
+Stand when hand is >= 9 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,2994,440,6368,713,638,36,0.2994
+Stand when hand is >= 9 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2660,275,6830,2871,510,133,0.266
+Stand when hand is >= 10 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4513,463,5008,0,479,0,0.4513
+Stand when hand is >= 10 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4739,448,4809,0,452,0,0.4739
+Stand when hand is >= 10 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4946,512,4626,0,428,0,0.4946
+Stand when hand is >= 10 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5183,504,4426,0,391,0,0.5183
+Stand when hand is >= 10 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5197,475,4400,0,403,0,0.5197
+Stand when hand is >= 10 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4261,473,5094,0,645,0,0.4261
+Stand when hand is >= 10 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3938,469,5486,0,576,0,0.3938
+Stand when hand is >= 10 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3529,502,5852,0,619,0,0.3529
+Stand when hand is >= 10 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3036,413,6282,715,682,34,0.3036
+Stand when hand is >= 10 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2553,266,6876,2963,571,165,0.2553
+Stand when hand is >= 11 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4663,484,4819,0,518,0,0.4663
+Stand when hand is >= 11 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4900,531,4619,0,481,0,0.49
+Stand when hand is >= 11 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,5061,479,4435,0,504,0,0.5061
+Stand when hand is >= 11 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5255,512,4279,0,466,0,0.5255
+Stand when hand is >= 11 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5378,490,4193,0,429,0,0.5378
+Stand when hand is >= 11 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4414,478,4933,0,653,0,0.4414
+Stand when hand is >= 11 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4149,525,5232,0,619,0,0.4149
+Stand when hand is >= 11 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3746,490,5617,0,637,0,0.3746
+Stand when hand is >= 11 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3020,433,6220,720,760,41,0.302
+Stand when hand is >= 11 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2745,292,6624,2885,631,148,0.2745
+Stand when hand is >= 12 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4856,480,4580,0,564,0,0.4856
+Stand when hand is >= 12 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,5006,459,4490,0,504,0,0.5006
+Stand when hand is >= 12 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,5164,447,4314,0,522,0,0.5164
+Stand when hand is >= 12 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5317,454,4203,0,480,0,0.5317
+Stand when hand is >= 12 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5497,481,4008,0,495,0,0.5497
+Stand when hand is >= 12 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4648,487,4742,0,610,0,0.4648
+Stand when hand is >= 12 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4273,489,5074,0,653,0,0.4273
+Stand when hand is >= 12 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3926,481,5406,0,668,0,0.3926
+Stand when hand is >= 12 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3303,449,5887,699,810,50,0.3303
+Stand when hand is >= 12 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2816,315,6493,2945,691,189,0.2816
+Stand when hand is >= 13 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4822,461,4560,0,618,0,0.4822
+Stand when hand is >= 13 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,5033,460,4403,0,564,0,0.5033
+Stand when hand is >= 13 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,5127,483,4345,0,528,0,0.5127
+Stand when hand is >= 13 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5280,495,4212,0,508,0,0.528
+Stand when hand is >= 13 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5296,473,4132,0,572,0,0.5296
+Stand when hand is >= 13 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4742,479,4550,0,708,0,0.4742
+Stand when hand is >= 13 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4315,450,4973,0,712,0,0.4315
+Stand when hand is >= 13 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3941,456,5315,0,744,0,0.3941
+Stand when hand is >= 13 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3488,475,5671,750,841,66,0.3488
+Stand when hand is >= 13 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2880,297,6367,2840,753,237,0.288
+Stand when hand is >= 14 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4833,489,4470,0,697,0,0.4833
+Stand when hand is >= 14 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4906,489,4461,0,633,0,0.4906
+Stand when hand is >= 14 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,5069,478,4348,0,583,0,0.5069
+Stand when hand is >= 14 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5251,500,4149,0,600,0,0.5251
+Stand when hand is >= 14 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5419,506,3988,0,593,0,0.5419
+Stand when hand is >= 14 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4813,472,4377,0,810,0,0.4813
+Stand when hand is >= 14 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4397,500,4817,0,786,0,0.4397
+Stand when hand is >= 14 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,4077,500,5097,0,826,0,0.4077
+Stand when hand is >= 14 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3475,441,5566,695,959,75,0.3475
+Stand when hand is >= 14 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2875,272,6270,2764,855,257,0.2875
+Stand when hand is >= 15 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4751,490,4531,0,718,0,0.4751
+Stand when hand is >= 15 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4864,482,4415,0,721,0,0.4864
+Stand when hand is >= 15 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,5024,447,4255,0,721,0,0.5024
+Stand when hand is >= 15 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,5187,497,4169,0,644,0,0.5187
+Stand when hand is >= 15 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5265,483,4106,0,629,0,0.5265
+Stand when hand is >= 15 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4934,491,4212,0,854,0,0.4934
+Stand when hand is >= 15 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4497,442,4638,0,865,0,0.4497
+Stand when hand is >= 15 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3956,452,5138,0,906,0,0.3956
+Stand when hand is >= 15 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3448,456,5497,743,1055,81,0.3448
+Stand when hand is >= 15 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2928,276,6134,2800,938,303,0.2928
+Stand when hand is >= 16 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4706,475,4500,0,794,0,0.4706
+Stand when hand is >= 16 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4769,476,4447,0,784,0,0.4769
+Stand when hand is >= 16 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4790,474,4430,0,780,0,0.479
+Stand when hand is >= 16 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,4898,479,4389,0,713,0,0.4898
+Stand when hand is >= 16 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,5110,477,4119,0,771,0,0.511
+Stand when hand is >= 16 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4943,471,4149,0,908,0,0.4943
+Stand when hand is >= 16 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4557,475,4536,0,907,0,0.4557
+Stand when hand is >= 16 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,4014,472,4994,0,992,0,0.4014
+Stand when hand is >= 16 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3415,437,5469,654,1116,98,0.3415
+Stand when hand is >= 16 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2946,278,5989,2777,1065,340,0.2946
+Stand when hand is >= 17 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4519,494,4632,0,849,0,0.4519
+Stand when hand is >= 17 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4619,467,4549,0,832,0,0.4619
+Stand when hand is >= 17 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4712,497,4430,0,858,0,0.4712
+Stand when hand is >= 17 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,4743,488,4455,0,802,0,0.4743
+Stand when hand is >= 17 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,4953,452,4267,0,780,0,0.4953
+Stand when hand is >= 17 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4980,447,3984,0,1036,0,0.498
+Stand when hand is >= 17 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4502,466,4439,0,1059,0,0.4502
+Stand when hand is >= 17 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,4135,483,4822,0,1043,0,0.4135
+Stand when hand is >= 17 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3405,411,5353,653,1242,77,0.3405
+Stand when hand is >= 17 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2906,270,5970,2747,1124,360,0.2906
+Stand when hand is >= 18 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,4381,508,4924,0,695,0,0.4381
+Stand when hand is >= 18 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,4433,527,4824,0,743,0,0.4433
+Stand when hand is >= 18 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,4451,504,4844,0,705,0,0.4451
+Stand when hand is >= 18 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,4552,450,4794,0,654,0,0.4552
+Stand when hand is >= 18 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,4664,455,4711,0,625,0,0.4664
+Stand when hand is >= 18 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4902,453,4562,0,536,0,0.4902
+Stand when hand is >= 18 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4498,491,4550,0,952,0,0.4498
+Stand when hand is >= 18 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,4030,470,4980,0,990,0,0.403
+Stand when hand is >= 18 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3253,413,5613,665,1134,94,0.3253
+Stand when hand is >= 18 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2979,279,5981,2596,1040,400,0.2979
+Stand when hand is >= 19 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,3917,466,5529,0,554,0,0.3917
+Stand when hand is >= 19 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,3887,461,5563,0,550,0,0.3887
+Stand when hand is >= 19 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,3963,485,5490,0,547,0,0.3963
+Stand when hand is >= 19 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,4016,487,5425,0,559,0,0.4016
+Stand when hand is >= 19 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,4126,505,5409,0,465,0,0.4126
+Stand when hand is >= 19 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,4319,453,5347,0,334,0,0.4319
+Stand when hand is >= 19 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,4343,475,5223,0,434,0,0.4343
+Stand when hand is >= 19 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3821,465,5294,0,885,0,0.3821
+Stand when hand is >= 19 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,3087,432,5917,679,996,114,0.3087
+Stand when hand is >= 19 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2742,281,6323,2592,935,452,0.2742
+Stand when hand is >= 20 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,3133,501,6498,0,369,0,0.3133
+Stand when hand is >= 20 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,3141,440,6466,0,393,0,0.3141
+Stand when hand is >= 20 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,3195,458,6420,0,385,0,0.3195
+Stand when hand is >= 20 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,3223,508,6394,0,383,0,0.3223
+Stand when hand is >= 20 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,3245,486,6443,0,312,0,0.3245
+Stand when hand is >= 20 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,3358,472,6382,0,260,0,0.3358
+Stand when hand is >= 20 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,3383,472,6373,0,244,0,0.3383
+Stand when hand is >= 20 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,3264,479,6397,0,339,0,0.3264
+Stand when hand is >= 20 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,2623,480,6474,671,903,107,0.2623
+Stand when hand is >= 20 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,2174,305,7034,2516,792,455,0.2174
+Stand when hand is >= 21 & dealer face up card is = 2,Infinite deck on  every run a card is drawn with equal probability.,10000,1738,508,8102,0,160,0,0.1738
+Stand when hand is >= 21 & dealer face up card is = 3,Infinite deck on  every run a card is drawn with equal probability.,10000,1648,466,8202,0,150,0,0.1648
+Stand when hand is >= 21 & dealer face up card is = 4,Infinite deck on  every run a card is drawn with equal probability.,10000,1667,471,8185,0,148,0,0.1667
+Stand when hand is >= 21 & dealer face up card is = 5,Infinite deck on  every run a card is drawn with equal probability.,10000,1705,489,8147,0,148,0,0.1705
+Stand when hand is >= 21 & dealer face up card is = 6,Infinite deck on  every run a card is drawn with equal probability.,10000,1648,462,8231,0,121,0,0.1648
+Stand when hand is >= 21 & dealer face up card is = 7,Infinite deck on  every run a card is drawn with equal probability.,10000,1632,438,8272,0,96,0,0.1632
+Stand when hand is >= 21 & dealer face up card is = 8,Infinite deck on  every run a card is drawn with equal probability.,10000,1728,507,8189,0,83,0,0.1728
+Stand when hand is >= 21 & dealer face up card is = 9,Infinite deck on  every run a card is drawn with equal probability.,10000,1740,461,8162,0,98,0,0.174
+Stand when hand is >= 21 & dealer face up card is = 10,Infinite deck on  every run a card is drawn with equal probability.,10000,1619,423,8227,663,154,113,0.1619
+Stand when hand is >= 21 & dealer face up card is = 11,Infinite deck on  every run a card is drawn with equal probability.,10000,1193,293,8229,2527,578,522,0.1193
+Stand when hand is >= 4 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4658,559,4893,0,449,0,0.4658
+Stand when hand is >= 4 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4829,534,4750,0,421,0,0.4829
+Stand when hand is >= 4 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5228,547,4393,0,379,0,0.5228
+Stand when hand is >= 4 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5547,526,4080,0,373,0,0.5547
+Stand when hand is >= 4 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5204,526,4410,0,386,0,0.5204
+Stand when hand is >= 4 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4117,483,5447,0,436,0,0.4117
+Stand when hand is >= 4 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3704,564,5870,0,426,0,0.3704
+Stand when hand is >= 4 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3528,531,6054,0,418,0,0.3528
+Stand when hand is >= 4 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2884,350,6709,898,407,30,0.2884
+Stand when hand is >= 4 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2005,190,7530,3226,465,87,0.2005
+Stand when hand is >= 5 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4624,539,4909,0,467,0,0.4624
+Stand when hand is >= 5 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4789,512,4765,0,446,0,0.4789
+Stand when hand is >= 5 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5229,499,4411,0,360,0,0.5229
+Stand when hand is >= 5 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5605,523,4039,0,356,0,0.5605
+Stand when hand is >= 5 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5295,538,4322,0,383,0,0.5295
+Stand when hand is >= 5 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4075,511,5459,0,466,0,0.4075
+Stand when hand is >= 5 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3662,535,5893,0,445,0,0.3662
+Stand when hand is >= 5 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3558,532,6020,0,422,0,0.3558
+Stand when hand is >= 5 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2832,378,6756,897,412,29,0.2832
+Stand when hand is >= 5 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,1928,166,7586,3203,486,80,0.1928
+Stand when hand is >= 6 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4546,529,5039,0,415,0,0.4546
+Stand when hand is >= 6 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4820,505,4755,0,425,0,0.482
+Stand when hand is >= 6 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5238,537,4390,0,372,0,0.5238
+Stand when hand is >= 6 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5572,537,4087,0,341,0,0.5572
+Stand when hand is >= 6 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5203,582,4410,0,387,0,0.5203
+Stand when hand is >= 6 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4121,513,5431,0,448,0,0.4121
+Stand when hand is >= 6 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3669,518,5925,0,406,0,0.3669
+Stand when hand is >= 6 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3502,531,6097,0,401,0,0.3502
+Stand when hand is >= 6 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2930,350,6680,898,390,25,0.293
+Stand when hand is >= 6 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,1946,185,7573,3326,481,102,0.1946
+Stand when hand is >= 7 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4620,496,4928,0,452,0,0.462
+Stand when hand is >= 7 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4827,539,4759,0,414,0,0.4827
+Stand when hand is >= 7 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5284,555,4356,0,360,0,0.5284
+Stand when hand is >= 7 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5542,510,4090,0,368,0,0.5542
+Stand when hand is >= 7 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5192,478,4422,0,386,0,0.5192
+Stand when hand is >= 7 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4068,545,5491,0,441,0,0.4068
+Stand when hand is >= 7 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3642,507,5947,0,411,0,0.3642
+Stand when hand is >= 7 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3549,491,6020,0,431,0,0.3549
+Stand when hand is >= 7 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2850,331,6764,967,386,30,0.285
+Stand when hand is >= 7 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,1915,180,7617,3373,468,88,0.1915
+Stand when hand is >= 8 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4519,492,4998,0,483,0,0.4519
+Stand when hand is >= 8 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4782,489,4793,0,425,0,0.4782
+Stand when hand is >= 8 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5228,545,4394,0,378,0,0.5228
+Stand when hand is >= 8 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5486,530,4151,0,363,0,0.5486
+Stand when hand is >= 8 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5255,508,4318,0,427,0,0.5255
+Stand when hand is >= 8 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4118,549,5381,0,501,0,0.4118
+Stand when hand is >= 8 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3723,526,5843,0,434,0,0.3723
+Stand when hand is >= 8 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3565,541,5987,0,448,0,0.3565
+Stand when hand is >= 8 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2874,376,6741,888,385,29,0.2874
+Stand when hand is >= 8 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,1964,185,7518,3228,518,91,0.1964
+Stand when hand is >= 9 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4582,534,4951,0,467,0,0.4582
+Stand when hand is >= 9 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4866,534,4652,0,482,0,0.4866
+Stand when hand is >= 9 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5209,518,4353,0,438,0,0.5209
+Stand when hand is >= 9 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5546,510,4067,0,387,0,0.5546
+Stand when hand is >= 9 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5213,528,4383,0,404,0,0.5213
+Stand when hand is >= 9 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4194,536,5297,0,509,0,0.4194
+Stand when hand is >= 9 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3691,523,5805,0,504,0,0.3691
+Stand when hand is >= 9 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3572,508,5979,0,449,0,0.3572
+Stand when hand is >= 9 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2878,333,6709,984,413,30,0.2878
+Stand when hand is >= 9 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2005,192,7508,3246,487,73,0.2005
+Stand when hand is >= 10 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4573,521,4902,0,525,0,0.4573
+Stand when hand is >= 10 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4851,524,4635,0,514,0,0.4851
+Stand when hand is >= 10 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5276,525,4273,0,451,0,0.5276
+Stand when hand is >= 10 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5540,524,4029,0,431,0,0.554
+Stand when hand is >= 10 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5206,500,4312,0,482,0,0.5206
+Stand when hand is >= 10 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4400,550,5080,0,520,0,0.44
+Stand when hand is >= 10 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3785,559,5653,0,562,0,0.3785
+Stand when hand is >= 10 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3602,572,5872,0,526,0,0.3602
+Stand when hand is >= 10 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2910,345,6593,925,497,37,0.291
+Stand when hand is >= 10 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2037,170,7417,3212,546,96,0.2037
+Stand when hand is >= 11 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4714,515,4761,0,525,0,0.4714
+Stand when hand is >= 11 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4869,513,4632,0,499,0,0.4869
+Stand when hand is >= 11 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5329,532,4210,0,461,0,0.5329
+Stand when hand is >= 11 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5804,488,3786,0,410,0,0.5804
+Stand when hand is >= 11 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5338,498,4158,0,504,0,0.5338
+Stand when hand is >= 11 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4460,519,4954,0,586,0,0.446
+Stand when hand is >= 11 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3945,467,5491,0,564,0,0.3945
+Stand when hand is >= 11 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3757,513,5721,0,522,0,0.3757
+Stand when hand is >= 11 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3123,357,6375,854,502,33,0.3123
+Stand when hand is >= 11 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2063,209,7357,3219,580,97,0.2063
+Stand when hand is >= 12 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4828,529,4623,0,549,0,0.4828
+Stand when hand is >= 12 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,5158,536,4299,0,543,0,0.5158
+Stand when hand is >= 12 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5391,553,4085,0,524,0,0.5391
+Stand when hand is >= 12 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5781,521,3763,0,456,0,0.5781
+Stand when hand is >= 12 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5489,546,4019,0,492,0,0.5489
+Stand when hand is >= 12 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4642,550,4775,0,583,0,0.4642
+Stand when hand is >= 12 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4152,523,5251,0,597,0,0.4152
+Stand when hand is >= 12 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3912,525,5470,0,618,0,0.3912
+Stand when hand is >= 12 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3313,345,6132,878,555,41,0.3313
+Stand when hand is >= 12 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2266,193,7051,3162,683,146,0.2266
+Stand when hand is >= 13 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4884,520,4495,0,621,0,0.4884
+Stand when hand is >= 13 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,5098,560,4315,0,587,0,0.5098
+Stand when hand is >= 13 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5400,506,4089,0,511,0,0.54
+Stand when hand is >= 13 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5766,524,3728,0,506,0,0.5766
+Stand when hand is >= 13 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5440,527,3972,0,588,0,0.544
+Stand when hand is >= 13 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4681,523,4660,0,659,0,0.4681
+Stand when hand is >= 13 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4133,500,5232,0,635,0,0.4133
+Stand when hand is >= 13 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3884,527,5426,0,690,0,0.3884
+Stand when hand is >= 13 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3432,371,5911,878,657,58,0.3432
+Stand when hand is >= 13 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2323,200,6922,3118,755,171,0.2323
+Stand when hand is >= 14 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4873,509,4446,0,681,0,0.4873
+Stand when hand is >= 14 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4999,531,4387,0,614,0,0.4999
+Stand when hand is >= 14 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5303,541,4065,0,632,0,0.5303
+Stand when hand is >= 14 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5665,520,3719,0,616,0,0.5665
+Stand when hand is >= 14 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5443,506,3922,0,635,0,0.5443
+Stand when hand is >= 14 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4707,491,4538,0,755,0,0.4707
+Stand when hand is >= 14 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4262,508,5000,0,738,0,0.4262
+Stand when hand is >= 14 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,4046,519,5208,0,746,0,0.4046
+Stand when hand is >= 14 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3525,362,5689,877,786,75,0.3525
+Stand when hand is >= 14 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2411,196,6747,3073,842,243,0.2411
+Stand when hand is >= 15 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4789,510,4429,0,782,0,0.4789
+Stand when hand is >= 15 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4851,522,4502,0,647,0,0.4851
+Stand when hand is >= 15 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,5253,473,4105,0,642,0,0.5253
+Stand when hand is >= 15 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5589,514,3815,0,596,0,0.5589
+Stand when hand is >= 15 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5295,520,4058,0,647,0,0.5295
+Stand when hand is >= 15 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4844,521,4339,0,817,0,0.4844
+Stand when hand is >= 15 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4353,504,4839,0,808,0,0.4353
+Stand when hand is >= 15 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3995,547,5129,0,876,0,0.3995
+Stand when hand is >= 15 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3576,356,5511,856,913,89,0.3576
+Stand when hand is >= 15 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2494,173,6579,3061,927,265,0.2494
+Stand when hand is >= 16 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4743,549,4517,0,740,0,0.4743
+Stand when hand is >= 16 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4750,529,4502,0,748,0,0.475
+Stand when hand is >= 16 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,4967,524,4342,0,691,0,0.4967
+Stand when hand is >= 16 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,5223,499,4145,0,632,0,0.5223
+Stand when hand is >= 16 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,5135,528,4099,0,766,0,0.5135
+Stand when hand is >= 16 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4872,510,4208,0,920,0,0.4872
+Stand when hand is >= 16 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4437,561,4622,0,941,0,0.4437
+Stand when hand is >= 16 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,4082,536,4988,0,930,0,0.4082
+Stand when hand is >= 16 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3670,353,5391,860,939,91,0.367
+Stand when hand is >= 16 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2606,191,6377,2963,1017,314,0.2606
+Stand when hand is >= 17 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4534,490,4588,0,878,0,0.4534
+Stand when hand is >= 17 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4599,529,4554,0,847,0,0.4599
+Stand when hand is >= 17 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,4700,529,4599,0,701,0,0.47
+Stand when hand is >= 17 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,4919,506,4350,0,731,0,0.4919
+Stand when hand is >= 17 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,4898,480,4324,0,778,0,0.4898
+Stand when hand is >= 17 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4892,522,4110,0,998,0,0.4892
+Stand when hand is >= 17 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4607,526,4337,0,1056,0,0.4607
+Stand when hand is >= 17 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,4093,544,4866,0,1041,0,0.4093
+Stand when hand is >= 17 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3745,346,5151,832,1104,125,0.3745
+Stand when hand is >= 17 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2498,164,6341,3044,1161,368,0.2498
+Stand when hand is >= 18 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,4302,523,5018,0,680,0,0.4302
+Stand when hand is >= 18 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,4295,519,5058,0,647,0,0.4295
+Stand when hand is >= 18 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,4433,519,4992,0,575,0,0.4433
+Stand when hand is >= 18 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,4704,521,4715,0,581,0,0.4704
+Stand when hand is >= 18 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,4587,504,4761,0,652,0,0.4587
+Stand when hand is >= 18 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4981,547,4496,0,523,0,0.4981
+Stand when hand is >= 18 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4607,523,4483,0,910,0,0.4607
+Stand when hand is >= 18 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,4003,517,5065,0,932,0,0.4003
+Stand when hand is >= 18 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3759,353,5284,840,957,139,0.3759
+Stand when hand is >= 18 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2463,176,6499,2950,1038,355,0.2463
+Stand when hand is >= 19 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,3816,502,5594,0,590,0,0.3816
+Stand when hand is >= 19 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,3769,482,5666,0,565,0,0.3769
+Stand when hand is >= 19 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,3862,509,5599,0,539,0,0.3862
+Stand when hand is >= 19 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,4116,561,5450,0,434,0,0.4116
+Stand when hand is >= 19 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,4145,537,5395,0,460,0,0.4145
+Stand when hand is >= 19 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,4392,516,5233,0,375,0,0.4392
+Stand when hand is >= 19 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,4467,528,5124,0,409,0,0.4467
+Stand when hand is >= 19 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3816,483,5268,0,916,0,0.3816
+Stand when hand is >= 19 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,3479,354,5726,874,795,140,0.3479
+Stand when hand is >= 19 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2389,172,6644,2808,967,461,0.2389
+Stand when hand is >= 20 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,2972,496,6603,0,425,0,0.2972
+Stand when hand is >= 20 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,3100,516,6490,0,410,0,0.31
+Stand when hand is >= 20 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,3135,510,6492,0,373,0,0.3135
+Stand when hand is >= 20 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,3330,512,6388,0,282,0,0.333
+Stand when hand is >= 20 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,3280,499,6439,0,281,0,0.328
+Stand when hand is >= 20 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,3416,526,6353,0,231,0,0.3416
+Stand when hand is >= 20 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,3420,533,6350,0,230,0,0.342
+Stand when hand is >= 20 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,3373,498,6259,0,368,0,0.3373
+Stand when hand is >= 20 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,2733,337,6621,788,646,163,0.2733
+Stand when hand is >= 20 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,2011,181,7183,2804,806,481,0.2011
+Stand when hand is >= 21 & dealer face up card is = 2,One deck of cards is used. The deck is reshuffled after every game.,10000,1587,526,8262,0,151,0,0.1587
+Stand when hand is >= 21 & dealer face up card is = 3,One deck of cards is used. The deck is reshuffled after every game.,10000,1667,551,8183,0,150,0,0.1667
+Stand when hand is >= 21 & dealer face up card is = 4,One deck of cards is used. The deck is reshuffled after every game.,10000,1633,520,8199,0,168,0,0.1633
+Stand when hand is >= 21 & dealer face up card is = 5,One deck of cards is used. The deck is reshuffled after every game.,10000,1638,490,8231,0,131,0,0.1638
+Stand when hand is >= 21 & dealer face up card is = 6,One deck of cards is used. The deck is reshuffled after every game.,10000,1628,478,8262,0,110,0,0.1628
+Stand when hand is >= 21 & dealer face up card is = 7,One deck of cards is used. The deck is reshuffled after every game.,10000,1742,494,8159,0,99,0,0.1742
+Stand when hand is >= 21 & dealer face up card is = 8,One deck of cards is used. The deck is reshuffled after every game.,10000,1745,505,8157,0,98,0,0.1745
+Stand when hand is >= 21 & dealer face up card is = 9,One deck of cards is used. The deck is reshuffled after every game.,10000,1771,526,8128,0,101,0,0.1771
+Stand when hand is >= 21 & dealer face up card is = 10,One deck of cards is used. The deck is reshuffled after every game.,10000,1760,400,7963,761,277,196,0.176
+Stand when hand is >= 21 & dealer face up card is = 11,One deck of cards is used. The deck is reshuffled after every game.,10000,945,206,8522,2787,533,492,0.0945
